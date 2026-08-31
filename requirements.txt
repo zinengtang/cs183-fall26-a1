@@ -1,0 +1,9 @@
+aiohttp==3.12.15
+kagglehub==0.3.13
+nltk==3.9.1
+tqdm==4.67.1
+transformers==4.56.0
+whisperx==3.8.6
+datasets==4.0.0
+pandas==2.3.3
+matplotlib==3.10.9
